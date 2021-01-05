@@ -1,0 +1,249 @@
+id;"code";"name";order
+1;"AFG";"Afghanistan";NULL
+2;"ALB";"Albania";NULL
+3;"DZA";"Algeria";NULL
+4;"ASM";"American Samoa";NULL
+5;"AND";"Andorra";NULL
+6;"AGO";"Angola";NULL
+7;"AIA";"Anguilla";NULL
+8;"ATA";"Antarctica";NULL
+9;"ATG";"Antigua and Barbuda";NULL
+10;"ARG";"Argentina";NULL
+11;"ARM";"Armenia";NULL
+12;"ABW";"Aruba";NULL
+13;"AUS";"Australia";NULL
+14;"AUT";"Austria";NULL
+15;"AZE";"Azerbaijan";NULL
+16;"BHS";"Bahamas";NULL
+17;"BHR";"Bahrain";NULL
+18;"BGD";"Bangladesh";NULL
+19;"BRB";"Barbados";NULL
+20;"BLR";"Belarus";NULL
+21;"BEL";"Belgium";2
+22;"BLZ";"Belize";NULL
+23;"BEN";"Benin";NULL
+24;"BMU";"Bermuda";NULL
+25;"BTN";"Bhutan";NULL
+26;"BOL";"Bolivia";NULL
+27;"BES";"Bonaire";NULL
+28;"BIH";"Bosnia and Herzegovina";NULL
+29;"BWA";"Botswana";NULL
+30;"BVT";"Bouvet Island";NULL
+31;"BRA";"Brazil";NULL
+32;"IOT";"British Indian Ocean Territory";NULL
+33;"BRN";"Brunei Darussalam";NULL
+34;"BGR";"Bulgaria";NULL
+35;"BFA";"Burkina Faso";NULL
+36;"BDI";"Burundi";NULL
+37;"KHM";"Cambodia";NULL
+38;"CMR";"Cameroon";NULL
+39;"CAN";"Canada";NULL
+40;"CPV";"Cape Verde";NULL
+41;"CYM";"Cayman Islands";NULL
+42;"CAF";"Central African Republic";NULL
+43;"TCD";"Chad";NULL
+44;"CHL";"Chile";NULL
+45;"CHN";"China";NULL
+46;"CXR";"Christmas Island";NULL
+47;"CCK";"Cocos (Keeling) Islands";NULL
+48;"COL";"Colombia";NULL
+49;"COM";"Comoros";NULL
+50;"COG";"Congo";NULL
+51;"COD";"Democratic Republic of the Congo";NULL
+52;"COK";"Cook Islands";NULL
+53;"CRI";"Costa Rica";NULL
+54;"HRV";"Croatia";NULL
+55;"CUB";"Cuba";NULL
+56;"CUW";"Curacao";NULL
+57;"CYP";"Cyprus";NULL
+58;"CZE";"Czech Republic";NULL
+59;"CIV";"Cote d Ivoire";NULL
+60;"DNK";"Denmark";NULL
+61;"DJI";"Djibouti";NULL
+62;"DMA";"Dominica";NULL
+63;"DOM";"Dominican Republic";NULL
+64;"ECU";"Ecuador";NULL
+65;"EGY";"Egypt";NULL
+66;"SLV";"El Salvador";NULL
+67;"GNQ";"Equatorial Guinea";NULL
+68;"ERI";"Eritrea";NULL
+69;"EST";"Estonia";NULL
+70;"ETH";"Ethiopia";NULL
+71;"FLK";"Falkland Islands (Malvinas)";NULL
+72;"FRO";"Faroe Islands";NULL
+73;"FJI";"Fiji";NULL
+74;"FIN";"Finland";NULL
+75;"FRA";"France";NULL
+76;"GUF";"French Guiana";NULL
+77;"PYF";"French Polynesia";NULL
+78;"ATF";"French Southern Territories";NULL
+79;"GAB";"Gabon";NULL
+80;"GMB";"Gambia";NULL
+81;"GEO";"Georgia";NULL
+82;"DEU";"Germany";3
+83;"GHA";"Ghana";NULL
+84;"GIB";"Gibraltar";NULL
+85;"GRC";"Greece";NULL
+86;"GRL";"Greenland";NULL
+87;"GRD";"Grenada";NULL
+88;"GLP";"Guadeloupe";NULL
+89;"GUM";"Guam";NULL
+90;"GTM";"Guatemala";NULL
+91;"GGY";"Guernsey";NULL
+92;"GIN";"Guinea";NULL
+93;"GNB";"Guinea-Bissau";NULL
+94;"GUY";"Guyana";NULL
+95;"HTI";"Haiti";NULL
+96;"HMD";"Heard Island and McDonald Mcdonald Islands";NULL
+97;"VAT";"Holy See (Vatican City State)";NULL
+98;"HND";"Honduras";NULL
+99;"HKG";"Hong Kong";NULL
+100;"HUN";"Hungary";NULL
+101;"ISL";"Iceland";NULL
+102;"IND";"India";NULL
+103;"IDN";"Indonesia";NULL
+104;"IRN";"Iran, Islamic Republic of";NULL
+105;"IRQ";"Iraq";NULL
+106;"IRL";"Ireland";NULL
+107;"IMN";"Isle of Man";NULL
+108;"ISR";"Israel";NULL
+109;"ITA";"Italy";NULL
+110;"JAM";"Jamaica";NULL
+111;"JPN";"Japan";NULL
+112;"JEY";"Jersey";NULL
+113;"JOR";"Jordan";NULL
+114;"KAZ";"Kazakhstan";NULL
+115;"KEN";"Kenya";NULL
+116;"KIR";"Kiribati";NULL
+117;"PRK";"Korea, Democratic Peoples Republic of";NULL
+118;"KOR";"Korea, Republic of";NULL
+119;"KWT";"Kuwait";NULL
+120;"KGZ";"Kyrgyzstan";NULL
+121;"LAO";"Lao Peoples Democratic Republic";NULL
+122;"LVA";"Latvia";NULL
+123;"LBN";"Lebanon";NULL
+124;"LSO";"Lesotho";NULL
+125;"LBR";"Liberia";NULL
+126;"LBY";"Libya";NULL
+127;"LIE";"Liechtenstein";NULL
+128;"LTU";"Lithuania";NULL
+129;"LUX";"Luxembourg";NULL
+130;"MAC";"Macao";NULL
+131;"MKD";"Macedonia, the Former Yugoslav Republic of";NULL
+132;"MDG";"Madagascar";NULL
+133;"MWI";"Malawi";NULL
+134;"MYS";"Malaysia";NULL
+135;"MDV";"Maldives";NULL
+136;"MLI";"Mali";NULL
+137;"MLT";"Malta";NULL
+138;"MHL";"Marshall Islands";NULL
+139;"MTQ";"Martinique";NULL
+140;"MRT";"Mauritania";NULL
+141;"MUS";"Mauritius";NULL
+142;"MYT";"Mayotte";NULL
+143;"MEX";"Mexico";NULL
+144;"FSM";"Micronesia, Federated States of";NULL
+145;"MDA";"Moldova, Republic of";NULL
+146;"MCO";"Monaco";NULL
+147;"MNG";"Mongolia";NULL
+148;"MNE";"Montenegro";NULL
+149;"MSR";"Montserrat";NULL
+150;"MAR";"Morocco";NULL
+151;"MOZ";"Mozambique";NULL
+152;"MMR";"Myanmar";NULL
+153;"NAM";"Namibia";NULL
+154;"NRU";"Nauru";NULL
+155;"NPL";"Nepal";NULL
+156;"NLD";"Netherlands";1
+157;"NCL";"New Caledonia";NULL
+158;"NZL";"New Zealand";NULL
+159;"NIC";"Nicaragua";NULL
+160;"NER";"Niger";NULL
+161;"NGA";"Nigeria";NULL
+162;"NIU";"Niue";NULL
+163;"NFK";"Norfolk Island";NULL
+164;"MNP";"Northern Mariana Islands";NULL
+165;"NOR";"Norway";NULL
+166;"OMN";"Oman";NULL
+167;"PAK";"Pakistan";NULL
+168;"PLW";"Palau";NULL
+169;"PSE";"Palestine, State of";NULL
+170;"PAN";"Panama";NULL
+171;"PNG";"Papua New Guinea";NULL
+172;"PRY";"Paraguay";NULL
+173;"PER";"Peru";NULL
+174;"PHL";"Philippines";NULL
+175;"PCN";"Pitcairn";NULL
+176;"POL";"Poland";NULL
+177;"PRT";"Portugal";NULL
+178;"PRI";"Puerto Rico";NULL
+179;"QAT";"Qatar";NULL
+180;"ROU";"Romania";NULL
+181;"RUS";"Russian Federation";NULL
+182;"RWA";"Rwanda";NULL
+183;"REU";"Reunion";NULL
+184;"BLM";"Saint Barthelemy";NULL
+185;"SHN";"Saint Helena";NULL
+186;"KNA";"Saint Kitts and Nevis";NULL
+187;"LCA";"Saint Lucia";NULL
+188;"MAF";"Saint Martin (French part)";NULL
+189;"SPM";"Saint Pierre and Miquelon";NULL
+190;"VCT";"Saint Vincent and the Grenadines";NULL
+191;"WSM";"Samoa";NULL
+192;"SMR";"San Marino";NULL
+193;"STP";"Sao Tome and Principe";NULL
+194;"SAU";"Saudi Arabia";NULL
+195;"SEN";"Senegal";NULL
+196;"SRB";"Serbia";NULL
+197;"SYC";"Seychelles";NULL
+198;"SLE";"Sierra Leone";NULL
+199;"SGP";"Singapore";NULL
+200;"SXM";"Sint Maarten (Dutch part)";NULL
+201;"SVK";"Slovakia";NULL
+202;"SVN";"Slovenia";NULL
+203;"SLB";"Solomon Islands";NULL
+204;"SOM";"Somalia";NULL
+205;"ZAF";"South Africa";NULL
+206;"SGS";"South Georgia and the South Sandwich Islands";NULL
+207;"SSD";"South Sudan";NULL
+208;"ESP";"Spain";NULL
+209;"LKA";"Sri Lanka";NULL
+210;"SDN";"Sudan";NULL
+211;"SUR";"Suriname";NULL
+212;"SJM";"Svalbard and Jan Mayen";NULL
+213;"SWZ";"Swaziland";NULL
+214;"SWE";"Sweden";NULL
+215;"CHE";"Switzerland";NULL
+216;"SYR";"Syrian Arab Republic";NULL
+217;"TWN";"Taiwan, Province of China";NULL
+218;"TJK";"Tajikistan";NULL
+219;"TZA";"United Republic of Tanzania";NULL
+220;"THA";"Thailand";NULL
+221;"TLS";"Timor-Leste";NULL
+222;"TGO";"Togo";NULL
+223;"TKL";"Tokelau";NULL
+224;"TON";"Tonga";NULL
+225;"TTO";"Trinidad and Tobago";NULL
+226;"TUN";"Tunisia";NULL
+227;"TUR";"Turkey";NULL
+228;"TKM";"Turkmenistan";NULL
+229;"TCA";"Turks and Caicos Islands";NULL
+230;"TUV";"Tuvalu";NULL
+231;"UGA";"Uganda";NULL
+232;"UKR";"Ukraine";NULL
+233;"ARE";"United Arab Emirates";NULL
+234;"GBR";"United Kingdom";3
+235;"USA";"United States";NULL
+236;"UMI";"United States Minor Outlying Islands";NULL
+237;"URY";"Uruguay";NULL
+238;"UZB";"Uzbekistan";NULL
+239;"VUT";"Vanuatu";NULL
+240;"VEN";"Venezuela";NULL
+241;"VNM";"Viet Nam";NULL
+242;"VGB";"British Virgin Islands";NULL
+243;"VIR";"US Virgin Islands";NULL
+244;"WLF";"Wallis and Futuna";NULL
+245;"ESH";"Western Sahara";NULL
+246;"YEM";"Yemen";NULL
+247;"ZMB";"Zambia";NULL
+248;"ZWE";"Zimbabwe";NULL

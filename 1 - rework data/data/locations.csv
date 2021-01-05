@@ -1,0 +1,3 @@
+id;user_id;source_id;coordinate_id;type_id;"name";"note";visits;"created_at";"updated_at";"deleted_at"
+1;1;202;1;1;"Tujetsch | Via Alpsu 4089";"nearby: #mountains #nature #view #hiking #wildness #climbing #vanlifelocation";0;"2017-10-28 10:02:00";"2017-10-28 10:02:00";NULL
+2;1;184;2;1;"Bua | None 2404";"nearby: #sea #port #beach #resteraunt #vanlifelocation";0;"2017-11-25 10:12:00";"2017-11-25 10:12:00";NULL

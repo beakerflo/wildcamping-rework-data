@@ -1,0 +1,5 @@
+id;user_id;"name";"note";"created_at";"updated_at";"deleted_at"
+1;1;"vrijstaan";NULL;"2018-07-12 17:00:00";"2018-07-12 17:00:00";NULL
+2;1;"overnachtingsplaats";NULL;"2018-07-12 17:00:00";"2018-07-12 17:00:00";NULL
+3;1;"camperplaats";NULL;"2018-07-12 17:00:00";"2018-07-12 17:00:00";NULL
+4;1;"camping";NULL;"2018-07-12 17:00:00";"2018-07-12 17:00:00";NULL

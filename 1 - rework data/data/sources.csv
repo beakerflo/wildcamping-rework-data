@@ -1,0 +1,4 @@
+id;user_id;"name";"nickname";"link";"note";"created_at";"updated_at";"deleted_at"
+1;1;"The wanderlust Dietitian";"thewanderlustdietitian";"https://thewanderlustdietitian.com";NULL;"2018-06-20 10:57:00";"2018-06-20 10:57:00";NULL
+2;1;"Camperforum";"camperforum.nl";"https://www.camperforum.nl";"Dutch Forum for campers";"2018-06-20 10:57:00";"2018-06-20 10:57:00";NULL
+3;1;"Google Maps SRB";"Maps_SRB";"https://www.google.com/maps/d/u/0/viewer?mid=16b5KPY7eUNkb7P2fsYY0ZJ54SLQ";"A Google Maps map, created by some people";"2018-06-20 10:57:00";"2018-06-20 10:57:00";NULL

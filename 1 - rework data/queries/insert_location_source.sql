@@ -1,0 +1,2 @@
+INSERT INTO `location_source` (`id`, `location_id`, `source_id`, `deleted_at`) VALUES (NULL, (SELECT `id` FROM `locations` WHERE `name` = 'Tujetsch | Via Alpsu 4089'), (SELECT `id` FROM `sources` WHERE `name` = 'lebenaufachsen'), NULL);
+INSERT INTO `location_source` (`id`, `location_id`, `source_id`, `deleted_at`) VALUES (NULL, (SELECT `id` FROM `locations` WHERE `name` = 'Bua | None 2404'), (SELECT `id` FROM `sources` WHERE `name` = 'hellodanane'), NULL);

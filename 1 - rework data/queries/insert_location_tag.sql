@@ -1,0 +1,2 @@
+INSERT INTO `location_tag` (`id`, `location_id`, `tag_id`, `deleted_at`) VALUES (NULL, (SELECT `id` FROM `locations` WHERE `name` = 'Tujetsch | Via Alpsu 4089'), (SELECT `id` FROM `tags` WHERE `name` = 'bergen'), NULL);
+INSERT INTO `location_tag` (`id`, `location_id`, `tag_id`, `deleted_at`) VALUES (NULL, (SELECT `id` FROM `locations` WHERE `name` = 'Tujetsch | Via Alpsu 4089'), (SELECT `id` FROM `tags` WHERE `name` = 'wandelen'), NULL);
